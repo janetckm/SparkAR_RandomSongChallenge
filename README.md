@@ -1,5 +1,5 @@
-# SparkAR_RandomSongChallenge
-Random Song Filter
+# SparkAR : Random Song Challenge
+Instagram Filter to play a random song challenage
 
 ## Preview
 ![preview](https://miro.medium.com/max/640/0*We9OQ2sccTuDWH5Z.gif)
